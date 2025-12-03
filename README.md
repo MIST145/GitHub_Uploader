@@ -1,15 +1,23 @@
-# GitHub_Uploader
+# 🟩 GitHub Manager Electron  
+**A Ponte Definitiva para um Workflow Git Simples, Intuitivo e Eficiente**
 
-🟩 GitHub Manager Electron
+<p align="center">
+  <img src="assets/github_manager_banner.png" width="900" />
+</p>
 
-A Ponte Definitiva para um Workflow Git Simples, Intuitivo e Eficiente
+<p align="center">
+  ![Mist Intro](https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif)
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="90"/>GitHub Manager Electron é uma aplicação desktop moderna construída com Electron + React + TypeScript + Tailwind, criada para simplificar o gerenciamento de repositórios, operações Git e integração com a API do GitHub — tudo em uma interface rápida e elegante.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="90"/>
+</p>
 
+**GitHub Manager Electron** é uma aplicação desktop moderna construída com **Electron + React + TypeScript + Tailwind**, criada para simplificar o gerenciamento de repositórios, operações Git e integração com a API do GitHub — tudo em uma interface rápida e elegante.
 
 ---
 
-🚀 Visão Geral
+## 🚀 Visão Geral
 
 A aplicação fornece um painel intuitivo que permite:
 

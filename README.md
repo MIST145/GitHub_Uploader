@@ -1,12 +1,14 @@
+# 🐐 MIST DEVELOPMENT®️
+
+<p align="center">
+  <img alt="Mist Intro" src="./assets/mist_intro.gif" width="600" />
+</p>
+
 # 🟩 GitHub Manager Electron  
 **A Ponte Definitiva para um Workflow Git Simples, Intuitivo e Eficiente**
 
 <p align="center">
-  <img src="assets/github_manager_banner.png" width="900" />
-</p>
-
-<p align="center">
-  ![Mist Intro](https://r2.fivemanage.com/8tVreTFs36Elpyar8ztbo/mist_intro.gif)
+  <img alt="GitHub Manager Banner" src="https://raw.githubusercontent.com/MIST145/GitHub_Uploader/8450bfd19dd99cc0fd2f6491b2d8d22686da7de2/assets/github_manager_banner.png" width="900" />
 </p>
 
 <p align="center">
